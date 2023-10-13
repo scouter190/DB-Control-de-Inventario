@@ -1,0 +1,7 @@
+1. EXECUTE pa_ModificarRazonSocialProveedor 'PV002', 'Kiola Designs';
+2. EXECUTE pa_ListaProductosRecibidos '2023-02-01', 'PV002' 
+3. EXECUTE pa_ListaDeItemsProximosAgotarse 10
+4. EXECUTE pa_ListaSalidasMecanico 'P002', 'M001'
+5. EXECUTE pa_ListaMovimientoItems '20230103', '20230903'
+
+https://www.canva.com/design/DAFmOIOWzaw/n_RDWmCG5xgFpeq1twpDSQ/edit?analyticsCorrelationId=ff06badb-176c-41fa-ae90-b05c78805ca9
